@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-
+![1 Waterdeep BIV.png](/img/user/1%20Waterdeep%20BIV.png)
 Hello World
 This is your new *vault*.
 
