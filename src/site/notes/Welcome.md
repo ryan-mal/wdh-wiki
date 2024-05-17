@@ -7,6 +7,8 @@ Hello World
 This is your new *vault*.dfafaef
 Testing from Different Laptop
 
+[[Relationship Board\|Relationship Board]]
+
 Visit our brave adventures! 
 [[3-The Party/Laplace Klei\|Laplace Klei]]
 [[3-The Party/Elroy Silvermoon\|Elroy Silvermoon]]
