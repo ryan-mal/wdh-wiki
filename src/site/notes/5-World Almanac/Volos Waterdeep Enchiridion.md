@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/5-world-almanac/volos-waterdeep-enchiridion/"}
 ---
 
-![](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/volos-waterdeep-enchiridion.webp#center)
-
 ![volos-waterdeep-enchiridion.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/volos-waterdeep-enchiridion.webp)
 
 Welcome, Traveler! You have in your hands the foremost and most up-to-date guide to the city—smiled over by none other than its Open Lord, Lady [Laeral Silverhand](/6-Mechanics/CLI/bestiary/npc/laeral-silverhand-wdh.md). This chapbook will serve you well until my seminal work on the subject, Volo's Guide to Waterdeep—sadly long out of print, but now a tome prized by collectors—can be updated and printed anew. Ask any broadsheet seller, innkeeper, shopkeeper, tavern owner, or bookseller if they'll soon have copies of the new edition for sale!
@@ -72,7 +70,7 @@ After the Spellplague came the Sundering. Elf scholars insist on calling it the 
 
 Apparently, all of this was foreseen by Waterdeep's legendary wizard Khelben Arunsun, and it was only through his wisdom and the efforts of Elminster, [Laeral Silverhand](/6-Mechanics/CLI/bestiary/npc/laeral-silverhand-wdh.md)-now the Open Lord of Waterdeep-and a handful of others that the world was saved. According to Elminster, Ao remade the Tablets of Fate as a result, restoring the divine order and separating Abeir from Toril. But take that as you may. According to that roguish longbeard, he saves the world without anyone noticing every other month or so.
 
-![The Sea Maiden's Faire Parade](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/sea-maidens-faire.webp#center)
+![sea-maidens-faire.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/sea-maidens-faire.webp)
 
 ## Surviving in the City
 
@@ -86,7 +84,7 @@ Unlike in less civilized settlements, punishment for crimes in Waterdeep isn't t
 
 Waterdeep has a complex library of law and custom set by precedent, the main body of which can be read in the Code Legal. This document is available in multiple languages at the Palace of Waterdeep, and (in the Common tongue) provided on request by the magisters at the gates and in the harbor. Be aware that the Code Legal provides only an outline of typical sentences for various offenses, and magisters have broad discretion when meting out justice as they see fit. Any Masked Lord can overturn a magister's ruling, but there's rarely a Masked Lord around when you need one.
 
-![](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/street-scene.webp#center)
+![street-scene.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/street-scene.webp)
 
 ### Arms, Armor, and Combat
 
@@ -139,7 +137,7 @@ Be sure to exchange taols and harbor moons before leaving the city, as their val
 
 Here are images of the city's coins, which aren't to scale.
 
-![Coins of Waterdeep](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/coins.webp#center)
+![coins.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/coins.webp)
 
 |    |    |
 |----|----|
@@ -168,7 +166,7 @@ Perambulating is the superior manner of experiencing the city and all its splend
 
 #### Traffic and Travel
 
-![](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-street.webp#center)
+![city-street.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-street.webp)
 
 Waterdeep is a city of broad boulevards that thrum with traffic. All day and well into the night, a bewildering melee of wagons, [carts](/6-Mechanics/CLI/items/cart.md), horse and pony riders, [carriages](/6-Mechanics/CLI/items/carriage.md), buggies, hire-coaches, and Waterdeep's signature towering drays (further discussed below) surges through its major thoroughfares. Fortunately, most roads are flanked by paved sidewalks that give pedestrians plenty of space, and most of the widest roads have raised dividers that allow an individual crossing a street a safe space to step out of the fray and wait for traffic to pass.
 
@@ -207,7 +205,7 @@ A fare taker stands at the back of the lower seating area to take your coin (typ
 
 If you desire to travel in relative comfort and be the master of your destination, simply give a spirited wave and shout to any hire-coach driver who has no passengers. Each of these handsome, two-wheeled black coaches comfortably seats two travelers (perhaps four if you're quite slim and very well acquainted), who ride facing the road ahead. The hire-coach's driver sits high and to the rear of the carriage, manipulating the horses by means of long reins and a short whip on a rod. The fare must be agreed upon and paid before the journey, but only rarely will the cost exceed a half-dozen shards.
 
-![](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-street-2.webp#center)
+![city-street-2.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-street-2.webp)
 
 #### Carriages
 
@@ -248,7 +246,7 @@ Seeking patronage from a noble without having been introduced to that person is 
 
 In the words of that quarrelsome acquaintance of mine from the Dales, "Before you strut your stuff in the chickens' preening circle, get to know the other cocks first." This colorful aphorism applies well to the affairs of nobility, because when you have interaction with a noble, you are at the same time dealing with one's entire family-as well as a network of business associates and allies. That situation can put you in a troublesome spot if you are unaware of the noble's connections.
 
-![Waterdeep at Night](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/night.webp#center)
+![night.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/night.webp)
 
 ### Guilds and Guild Law
 
@@ -313,7 +311,7 @@ Two parks in the Sea Ward might also be worth your time. The Shrines to Nature, 
 
 I hesitate to mention a last location in the Sea Ward, and I will not reveal where to find it, for reasons that will soon become apparent. There is a house in the Sea Ward without windows or doors. You can't see it from the street, and those who live near it will not speak of it to others. You'll know you are near it when you see blue tiles on the streets and walls leading into an alley that passes under the surrounding buildings. At night, these tiles glimmer dimly with the blue light of foxfire. More than one route leads into the Blue Alley, as this place is known, but there are precious few ways out. Most who enter don't come back. If you see blue tiles, turn around and walk away before it is too late.
 
-![Swift Justice](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/swift-justice.webp#center)
+![swift-justice.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/swift-justice.webp)
 
 ### North Ward
 
@@ -368,7 +366,7 @@ The glorious Spires of the Morning, dedicated to Lathander, is one of Waterdeep'
 
 The Castle Ward's colors are blue and purple, and its mascot is a griffon, typically depicted in gold. These borrow colors from the city's flag and reference the Griffon Cavalry, of course. Champions for the ward often come from among the ranks of the Guard, the Navy, or the Cavalry. Although such competitors have often had the advantage in races and competitions, their crowds of rabidly cheering fans are naturally much smaller than those of other wards.
 
-![The stately, clean, and well-defended Castle Ward](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/castle-ward.webp#center)
+![castle-ward.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/castle-ward.webp)
 
 ### Trades Ward
 
@@ -416,7 +414,7 @@ Those who can afford it memorialize the departed with sculptures, making the Cit
 
 One of the cemetery's most impressive attractions is the Warriors' Monument. This intricate, sixty-foot-high sculpture depicts a circle of women and men striking down trolls, orcs, hobgoblins, bugbears, and barbarians, all of which are falling backward and outward around the warriors. Above all of them, a flying griffon rider spears a skeletal knight whose breastplate bears the symbol of Myrkul, god of the dead. But this statue is also a fountain, and the wounds on these combatants gush water! Don't try to imagine it—just go see it. And see it as Waterdavians do: pack a midday feast, have a picnic, and then take a stroll through the beauty of the place.
 
-![City of the Dead](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-of-the-dead.webp#center)
+![city-of-the-dead.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-of-the-dead.webp)
 
 ### Outside the City Proper
 
@@ -479,7 +477,7 @@ In both martial displays and in real battles against flying threats such as mant
 
 Riders of the Griffon Cavalry are trained to stay above the rooftops, not because they fear crashing into towers and weather vanes, but because the smell of so much horseflesh in the streets below can sometimes drive their griffons into a frenzy.
 
-![Griffon Cavalry Patrol](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/griffon-cavalry.webp#center)
+![griffon-cavalry.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/griffon-cavalry.webp)
 
 ### The Walking Statues
 
@@ -493,7 +491,7 @@ This is perhaps the most famous walking statue in the city, thanks to its dramat
 
 All about the statue, climbing up its chest and on its knee and shoulders, is a tenement that carries the name "the God Catcher." The tenement's landlord is Aundra Blackcloak, an unsociable sorcerer who is rarely seen in the city except when she alights from the door carved in the floating sphere, which serves as her home. On the rare occasions when she wants to meet with city folk (typically to purchase odd substances for magical purposes), she appears unannounced on balconies or rooftops after dark. Her dealings are polite, though, and she pays fair coin. She never confides in anyone or talks about her own doings-and if anyone but she has ever seen the inside of her spherical home, they've said nothing publicly about it.
 
-![The God Catcher looming in the background](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/god-catcher.webp#center)
+![god-catcher.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/god-catcher.webp)
 
 #### The Griffon
 
@@ -622,7 +620,7 @@ On this day, the City Guard, the City Navy, and the City Watch-all in glittering
 
 The imaginative inventions of the Gondar are revealed on this day and paraded through the city. These devices range from something as humble as new cabinet hinges to massive mechanical constructs that walk or roll about. Failure is the paramour of invention, though, meaning it is a rare year when there isn't some notable disruption of the celebration. The flying chair of Marchell was one such recent oddity-a device that worked marvelously on the way up but was incapable of descending. Marchell was rescued by the Griffon Cavalry, but his flying chair drifted away and was never seen again.
 
-![Day of Wonders](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/day-of-wonders.webp#center)
+![day-of-wonders.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/day-of-wonders.webp)
 
 #### Marpenoth 7: Stoneshar
 
