@@ -9,6 +9,7 @@ Testing from Different Laptop
 
 [[Relationship Board\|Relationship Board]]
 [[2-Scratch Notes/Map Test\|Map Test]]
+[[World Map\|World Map]]
 
 Visit our brave adventures! 
 [[3-The Party/Laplace Klei\|Laplace Klei]]
