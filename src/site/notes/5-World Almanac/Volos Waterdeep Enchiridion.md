@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/5-world-almanac/volos-waterdeep-enchiridion/","tags":["compendium/src/5e/wdh"]}
+{"dg-publish":true,"permalink":"/5-world-almanac/volos-waterdeep-enchiridion/"}
 ---
-
-# Volo's Waterdeep Enchiridion
 
 ![](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/volos-waterdeep-enchiridion.webp#center)
 
