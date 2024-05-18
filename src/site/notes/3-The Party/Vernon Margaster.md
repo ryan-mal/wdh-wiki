@@ -18,4 +18,4 @@ In the following months, he learned to hone his unusual innate ability to "speak
 
 He would never be like his father. He was better, and no matter what happened, he would free his mother from his clutches and defend the Enclave the best he could.
 
-test
+ 
