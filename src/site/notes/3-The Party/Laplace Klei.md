@@ -16,4 +16,4 @@ The monastery was destroyed, and Laplace was captured by the [[5-World Almanac/a
 
 Laplace, having endured exploitation and betrayal, learned to rely on his understanding of wealth and intentions over simple trust. His experiences taught him that money, while not his pursuit, was a tool for discerning truth and guarding against deceit. 
 
-test
+ 
