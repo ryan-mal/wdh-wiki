@@ -12,11 +12,16 @@ Testing from Different Laptop
 [[World Map\|World Map]]
 [[5-World Almanac/Volos Waterdeep Enchiridion\|Volos Waterdeep Enchiridion]]
 
+![test_image.webp](/img/user/z_Assets/test_image.webp)
+
+
 Visit our brave adventures! 
 [[3-The Party/Laplace Klei\|Laplace Klei]]
 [[3-The Party/Elroy Silvermoon\|Elroy Silvermoon]]
 [[3-The Party/Jamie Darkvein\|Jamie Darkvein]]
 [[3-The Party/Vernon Margaster\|Vernon Margaster]]
+
+
 
 
 This is some normal text.
