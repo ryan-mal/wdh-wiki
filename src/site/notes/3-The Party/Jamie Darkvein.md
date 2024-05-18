@@ -18,4 +18,4 @@ Divona became his new caretaker, magically maintaining the house to prevent it f
 
 Over the years, he read all the books in the house multiple times, becoming an expert in arcane knowledge, spirits, and emulating his father's creations. One day, Artia visited, worried about her brother Cernunn, who had gone to Waterdeep to confront the Devils. Divona cast a spell revealing Cernunn was in grave danger. Before he set out to save him, Divona revealed a secret basement filled with Serpent's Coils, the infernal flowers his parents had been protecting. Armed with this knowledge, he began his journey to Waterdeep.
 
-test
+ 
