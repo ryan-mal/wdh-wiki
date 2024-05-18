@@ -8,6 +8,7 @@ This is your new *vault*.dfafaef
 Testing from Different Laptop
 
 [[Relationship Board\|Relationship Board]]
+[[2-Scratch Notes/Map Test\|Map Test]]
 
 Visit our brave adventures! 
 [[3-The Party/Laplace Klei\|Laplace Klei]]
@@ -22,7 +23,7 @@ Visit our brave adventures!
 
 This is some normal text.
 
-test
+ 
 
 
 
