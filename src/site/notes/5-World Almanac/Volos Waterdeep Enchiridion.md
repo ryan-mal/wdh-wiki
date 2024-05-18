@@ -4,6 +4,8 @@
 
 ![](/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/volos-waterdeep-enchiridion.webp#center)
 
+![volos-waterdeep-enchiridion.webp](/img/user/6-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/volos-waterdeep-enchiridion.webp)
+
 Welcome, Traveler! You have in your hands the foremost and most up-to-date guide to the city—smiled over by none other than its Open Lord, Lady [Laeral Silverhand](/6-Mechanics/CLI/bestiary/npc/laeral-silverhand-wdh.md). This chapbook will serve you well until my seminal work on the subject, Volo's Guide to Waterdeep—sadly long out of print, but now a tome prized by collectors—can be updated and printed anew. Ask any broadsheet seller, innkeeper, shopkeeper, tavern owner, or bookseller if they'll soon have copies of the new edition for sale!
 
 ## Entering Waterdeep
