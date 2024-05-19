@@ -11,6 +11,7 @@ Testing from Different Laptop
 [[2-Scratch Notes/Map Test\|Map Test]]
 [[World Map\|World Map]]
 [[5-World Almanac/Volos Waterdeep Enchiridion\|Volos Waterdeep Enchiridion]]
+[[1-DM Screen/Player File\|Player File]]
 
 test imgae:
 ![test_image.webp](/img/user/z_Assets/test_image.webp)
@@ -19,7 +20,7 @@ test imgae:
 Visit our brave adventures! 
 [[3-The Party/Laplace Klei\|Laplace Klei]]
 [[3-The Party/Elroy Silvermoon\|Elroy Silvermoon]]
-[[3-The Party/Jamie Darkvein\|Jamie Darkvein]]
+[[3-The Party/Jamie Darkvein\|3-The Party/Jamie Darkvein]]
 [[3-The Party/Vernon Margaster\|Vernon Margaster]]
 
 
