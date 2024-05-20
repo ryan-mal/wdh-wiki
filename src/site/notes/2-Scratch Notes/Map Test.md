@@ -6,7 +6,7 @@
 ### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  
 ### id must be unique  
 id: test-map
-image: [[Pasted image 20240518175556.png]] 
+image: [[fearun map.png]] 
 height: 1000px  
 width: 70%  
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds.  
