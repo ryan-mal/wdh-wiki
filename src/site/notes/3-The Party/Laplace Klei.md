@@ -12,7 +12,7 @@ Feeling the weight of his family's expectations and the absence of his sister, L
 
 Laplace joined the [[Sammasamutaito Monastery\|Sammasamutaito Monastery]], hoping to find genuine kindness and support. He grew close to Master [[Hakim\|Hakim]], finding in him a semblance of the familial bond he had lost. However, his trust was shattered when he was manipulated into administering what he believed was a life-saving cure to a young girl, [[Marie Aderbrant\|Marie Aderbrant]]. The potion turned out to be lethal, resulting in Marie's death and implicating the monastery in a dark plot.
 
-The monastery was destroyed, and Laplace was captured by the [[5-World Almanac/a_Allied Factions/Harpers\|Harpers]], who initially accused him of murder. After intense interrogation, the Harpers, led by [[Mirt\|Mirt]], recognized Laplace's innocence and released him, suggesting he seek a new beginning, with a suggestion that he might find purpose in the Yawning Portal
+The monastery was destroyed, and Laplace was captured by the [[5-World Almanac/5a-Allied Factions/Harpers\|Harpers]], who initially accused him of murder. After intense interrogation, the Harpers, led by [[Mirt\|Mirt]], recognized Laplace's innocence and released him, suggesting he seek a new beginning, with a suggestion that he might find purpose in the Yawning Portal
 
 Laplace, having endured exploitation and betrayal, learned to rely on his understanding of wealth and intentions over simple trust. His experiences taught him that money, while not his pursuit, was a tool for discerning truth and guarding against deceit. 
 
