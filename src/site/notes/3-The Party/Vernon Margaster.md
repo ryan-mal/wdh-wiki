@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-the-party/vernon-margaster/"}
+{"dg-publish":true,"permalink":"/3-the-party/vernon-margaster/","tags":["#PC"]}
 ---
 
 
