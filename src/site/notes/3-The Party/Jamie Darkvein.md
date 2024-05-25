@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-the-party/jamie-darkvein/"}
+{"dg-publish":true,"permalink":"/3-the-party/jamie-darkvein/","tags":["#PC"]}
 ---
 
 
