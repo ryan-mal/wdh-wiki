@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-the-party/elroy-silvermoon/"}
+{"dg-publish":true,"permalink":"/3-the-party/elroy-silvermoon/","tags":["#PC"]}
 ---
 
 
