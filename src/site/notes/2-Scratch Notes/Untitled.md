@@ -6,8 +6,7 @@ Yo
 
 > [!infobox]+
 > # Untitled
-> `VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`
-> ![[PlaceholderAudio.webm\|PlaceholderAudio.webm]]
+> ![Elroy Silvermoon.png](/img/user/z_Assets/PCs/Elroy%20Silvermoon.png)
 > ###### Bio
 >  |
 > ---|---|
