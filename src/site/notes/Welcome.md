@@ -7,6 +7,10 @@ Hello World
 This is your new *vault*.dfafaef
 Testing from Different Laptop
 
+[[2-Scratch Notes/Untitled\|Untitled]]
+[[2-Scratch Notes/Untitled 1\|Untitled 1]]
+
+
 [[3-The Party/GUEST\|GUEST]]
 [[Relationship Board\|Relationship Board]]
 [[2-Scratch Notes/Map Test\|Map Test]]
