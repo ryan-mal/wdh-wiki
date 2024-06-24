@@ -2,12 +2,15 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-![1 Waterdeep BIV.png](/img/user/z_Assets/Environment/1%20Waterdeep%20BIV.png)
+![1 Waterdeep BIV.png](/img/user/z_Assets/1%20Waterdeep%20BIV.png)
 Hello World
 This is your new *vault*.dfafaef
 Testing from Different Laptop
 
-[[2-Scratch Notes/Untitled\|Untitled]]
+[[6-Mechanics/Homebrew/bestiary/Aurora Luna Wynterstarr\|Aurora Luna Wynterstarr]]
+
+
+[[2-Scratch Notes/Untitled\|2-Scratch Notes/Untitled]]
 [[2-Scratch Notes/Untitled 1\|Untitled 1]]
 
 
